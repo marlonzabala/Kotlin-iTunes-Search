@@ -10,7 +10,10 @@ https://itunes.apple.com/search?term=star&amp;country=au&amp;media=movie&amp;all
 Shows a list of movies on the main page and you can search through them.
 
 Details showed on the list are:
-- Track Name, Artwork (400x400), Price, Genre
+- Track Name
+- Artwork (400x400)
+- Price
+- Genre
 
 Clicking on an item will direct you to the Details Activity, giving a longer description on about the selected item.
 
