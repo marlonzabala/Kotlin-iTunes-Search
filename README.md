@@ -30,3 +30,5 @@ The app uses MVVM architecture in Kotlin
 MVVM was chosen because it is recommended by Google.
 
 With the use of live data, components are less coupled which results in less buggy code.
+
+Download APK here: https://github.com/marlonzabala/Kotlin-itunes-Search/raw/master/ItunesSearch.apk
