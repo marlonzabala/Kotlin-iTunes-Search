@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/GDrRT4v.jpg)
+
 # Kotlin-itunes-Search
 Simple Itunes API search using MVVM in kotlin
 
