@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/GDrRT4v.jpg)
 
-# Kotlin-itunes-Search
+# Kotlin-iTunes-Search
 Simple Itunes API search using MVVM in kotlin
 
 This is a master-detail application that lists items from the itunes search API
